@@ -1,4 +1,4 @@
-You can view the project here deployed and hosted on Firebase
+**You can view the project here deployed and hosted on Firebase**
 
 gymfit-33bc3.web.app/
 
